@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mani96185
-- 👀 I’m interested in ... coding
+- 👋 Hi, I’m @manidathu
+- 👀 I’m interested in ... Code
 - 🌱 I’m currently learning ...Java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me ... manidathua@gmail.com
