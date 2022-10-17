@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manidathu
 - 👀 I’m interested in ... Code
-- 🌱 I’m currently learning ...Java, python
+- 🌱 I’m currently learning ...Java, python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me ... manidathua@gmail.com
 
